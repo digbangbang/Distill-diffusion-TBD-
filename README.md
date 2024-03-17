@@ -11,7 +11,7 @@ Prtrained Model from (8, 16, 32, 63, 125, 250, 500)
 
 ![Image Description](assets/prtrain_combined_image.png)
 
-One of the more interesting things is that the image of the distilled model will contain more noise when the number of steps is very small, while the image of the pre-trained model will be very blurry when the number of steps is very small.
+One of the most interesting things is that the image of the distilled model will contain more noise when the number of steps is very small, while the image of the pre-trained model will be very blurry when the number of steps is very small.
 
 
 
