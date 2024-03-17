@@ -3,7 +3,7 @@ This is the repository that includes the distillation outcome of the DDPM(CIFAR1
 
 ## Outcome Detail
 
-
+![Image Description](assets/distill_combined_image_8.png)
 
 ## Training Detail
 
