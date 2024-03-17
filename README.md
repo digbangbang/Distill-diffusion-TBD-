@@ -7,7 +7,7 @@ Distilled Model from (8, 16, 32, 63, 125, 250, 500)
 
 ![Image Description](assets/distill_combined_image.png)
 
-Drtrained Model from (8, 16, 32, 63, 125, 250, 500)
+Prtrained Model from (8, 16, 32, 63, 125, 250, 500)
 
 ![Image Description](assets/prtrain_combined_image.png)
 
